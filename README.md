@@ -22,7 +22,5 @@ Este projeto utiliza o amostrador de Gibbs (Inferência Bayesiana) para modelar 
 - **Visualização das Distribuições Posteriores**: Gráficos de densidade para visualizar as distribuições dos parâmetros estimados.
 - **Previsão de Preços de Venda**: Utilização das médias dos parâmetros amostrados para prever os preços de venda dos carros.
 
-### Referências
-
-- Dados utilizados: "CARSDEKHO.csv"
-- Análise estatística: Métodos de amostragem MCMC e diagnóstico de convergência.
+### Perceiros
+ Esse trabalho foi desenvolvido em conjunto por mim, Malcolm dos Reis, e pelos meus amigos Lucas Antonucci e Tiago Mattos.
